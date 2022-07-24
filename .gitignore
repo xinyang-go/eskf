@@ -1,0 +1,10 @@
+# vscode
+.vscode
+build
+
+# jetbrain
+.idea
+cmake-build-*
+
+# output
+example/**/*.so
